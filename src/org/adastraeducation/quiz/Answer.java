@@ -31,12 +31,5 @@ public class Answer {
 	public  boolean getCorrect(){
 		return correct;
 	}
-	public String textanswer(){
-		return "<input type=\"radio\" name=\"\">" + answer + "<br>";
-		
-	}
-	public String imganswer(){
-		return "<input type=\"radio\" name=\"dynosaur2\"><img src=\"../img/" + answer + "\" alt=\"" + answer + "\" width=\"300\" height=\"150\"><br>";
-	}
 	
 }
