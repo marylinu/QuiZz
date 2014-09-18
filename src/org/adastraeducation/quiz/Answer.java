@@ -1,6 +1,7 @@
 package org.adastraeducation.quiz;
 
 ///Comment from another contributor
+///Second time
 public class Answer {
 	private String answer;
 	protected String [] choices;
